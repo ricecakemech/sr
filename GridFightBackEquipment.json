@@ -1,0 +1,3012 @@
+[
+  {
+    "RoleID": 1003,
+    "EquipmentID": 23000,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 9778359379731183808
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1003,
+    "EquipmentID": 23000,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 13909415617146235226
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1003,
+    "EquipmentID": 23000,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 2620169351290439250
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1003,
+    "EquipmentID": 23000,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 8106538679474376091
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1003,
+    "EquipmentID": 23000,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 11503646978869862746
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1006,
+    "EquipmentID": 23007,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 15661147209251371485
+    },
+    "ParamList": [
+      {
+        "Value": 0.04
+      },
+      {
+        "Value": 0.04
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1006,
+    "EquipmentID": 23007,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 4944005683905271512
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1006,
+    "EquipmentID": 23007,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 1618017834544023713
+    },
+    "ParamList": [
+      {
+        "Value": 0.08
+      },
+      {
+        "Value": 0.08
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1006,
+    "EquipmentID": 23007,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 1870093216776950274
+    },
+    "ParamList": [
+      {
+        "Value": 0.1
+      },
+      {
+        "Value": 0.1
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1006,
+    "EquipmentID": 23007,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 4597700923975195475
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1014,
+    "EquipmentID": 23045,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 15047725590167082471
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1014,
+    "EquipmentID": 23045,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 740845396165190133
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1014,
+    "EquipmentID": 23045,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 9319941543507057352
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1014,
+    "EquipmentID": 23045,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 12003131028869308447
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1014,
+    "EquipmentID": 23045,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 9063952984272853517
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1112,
+    "EquipmentID": 23016,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 1584022677118923221
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1112,
+    "EquipmentID": 23016,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 15062202194914576379
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1112,
+    "EquipmentID": 23016,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 15171605057097601871
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1112,
+    "EquipmentID": 23016,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 3213264908664339924
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1112,
+    "EquipmentID": 23016,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 11698911389375065405
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1203,
+    "EquipmentID": 23008,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 10840862172665624720
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1203,
+    "EquipmentID": 23008,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 16079973389128238794
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1203,
+    "EquipmentID": 23008,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 389964932691464697
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1203,
+    "EquipmentID": 23008,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 8586427852240366479
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1203,
+    "EquipmentID": 23008,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 9312764784363050835
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1205,
+    "EquipmentID": 23009,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 16022124525160780710
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1205,
+    "EquipmentID": 23009,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 17160201704832267686
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1205,
+    "EquipmentID": 23009,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 12528185703971727881
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1205,
+    "EquipmentID": 23009,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 11148163582092347750
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1205,
+    "EquipmentID": 23009,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 3842200729491889779
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1208,
+    "EquipmentID": 23011,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 682127212194722388
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1208,
+    "EquipmentID": 23011,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 10084536923771422443
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1208,
+    "EquipmentID": 23011,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 17864520481292975833
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1208,
+    "EquipmentID": 23011,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 4457891884503924176
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1208,
+    "EquipmentID": 23011,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 18212660303801577814
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1209,
+    "EquipmentID": 23012,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 10619437094718338066
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1209,
+    "EquipmentID": 23012,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 7833456331745056773
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1209,
+    "EquipmentID": 23012,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 17533645077145234490
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1209,
+    "EquipmentID": 23012,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 13447641047341592855
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1209,
+    "EquipmentID": 23012,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 416693618269039451
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1212,
+    "EquipmentID": 23014,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 5361943526259941247
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1212,
+    "EquipmentID": 23014,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 17777408787924331664
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1212,
+    "EquipmentID": 23014,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 4901093660886778325
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1212,
+    "EquipmentID": 23014,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 7487662714318632888
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1212,
+    "EquipmentID": 23014,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 5663336635565083352
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1217,
+    "EquipmentID": 23017,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 7835834467689443911
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1217,
+    "EquipmentID": 23017,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 1897154923909731356
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1217,
+    "EquipmentID": 23017,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 8567426844539814223
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1217,
+    "EquipmentID": 23017,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 11046666090133307971
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1217,
+    "EquipmentID": 23017,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 11933855400908292711
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1221,
+    "EquipmentID": 23030,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 2183972675409248453
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1221,
+    "EquipmentID": 23030,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 9404588807564329327
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1221,
+    "EquipmentID": 23030,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 16517207829284209399
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1221,
+    "EquipmentID": 23030,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 8162120903017666189
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1221,
+    "EquipmentID": 23030,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 9225143307912156970
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1225,
+    "EquipmentID": 23035,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 6899738174764127389
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1225,
+    "EquipmentID": 23035,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 7830434912146599548
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1225,
+    "EquipmentID": 23035,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 2827664602867223573
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1225,
+    "EquipmentID": 23035,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 15887861028453640146
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1225,
+    "EquipmentID": 23035,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 13769809905634386960
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1303,
+    "EquipmentID": 23019,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 6934498123862047476
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1303,
+    "EquipmentID": 23019,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 902135140288005376
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1303,
+    "EquipmentID": 23019,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 9296885281366209624
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1303,
+    "EquipmentID": 23019,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 7973713466452088996
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1303,
+    "EquipmentID": 23019,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 9014631414033863376
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1306,
+    "EquipmentID": 23021,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 6054186620176027044
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1306,
+    "EquipmentID": 23021,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 5276206449403406743
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1306,
+    "EquipmentID": 23021,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 18331674702338538247
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1306,
+    "EquipmentID": 23021,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 444950758879901352
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1306,
+    "EquipmentID": 23021,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 1331811954712807456
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1307,
+    "EquipmentID": 23022,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 673751141877476089
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1307,
+    "EquipmentID": 23022,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 18022287644190519819
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1307,
+    "EquipmentID": 23022,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 15215529604933686939
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1307,
+    "EquipmentID": 23022,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 10666575438256849165
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1307,
+    "EquipmentID": 23022,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 4685720035195579038
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1309,
+    "EquipmentID": 23026,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 15668293545144097300
+    },
+    "ParamList": [
+      {
+        "Value": 0.04
+      },
+      {
+        "Value": 0.04
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1309,
+    "EquipmentID": 23026,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 16345661683633516794
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1309,
+    "EquipmentID": 23026,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 8442733046445528956
+    },
+    "ParamList": [
+      {
+        "Value": 0.08
+      },
+      {
+        "Value": 0.08
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1309,
+    "EquipmentID": 23026,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 18039436278163723299
+    },
+    "ParamList": [
+      {
+        "Value": 0.1
+      },
+      {
+        "Value": 0.1
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1309,
+    "EquipmentID": 23026,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 11168215052186856158
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1314,
+    "EquipmentID": 23028,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 13411954315140168165
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1314,
+    "EquipmentID": 23028,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 10698139014765247559
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1314,
+    "EquipmentID": 23028,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 7699568796725126444
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1314,
+    "EquipmentID": 23028,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 12880368066939140874
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1314,
+    "EquipmentID": 23028,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 944247529348134475
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1403,
+    "EquipmentID": 23038,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 769845682736515987
+    },
+    "ParamList": [
+      {
+        "Value": 0.04
+      },
+      {
+        "Value": 0.04
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1403,
+    "EquipmentID": 23038,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 17166816968267229840
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1403,
+    "EquipmentID": 23038,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 14367789024321704728
+    },
+    "ParamList": [
+      {
+        "Value": 0.08
+      },
+      {
+        "Value": 0.08
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1403,
+    "EquipmentID": 23038,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 8320410992005661175
+    },
+    "ParamList": [
+      {
+        "Value": 0.1
+      },
+      {
+        "Value": 0.1
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1403,
+    "EquipmentID": 23038,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 1218438655286021590
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1404,
+    "EquipmentID": 23039,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 8595116387651885196
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1404,
+    "EquipmentID": 23039,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 1296566463558781042
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1404,
+    "EquipmentID": 23039,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 15989965300732927705
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1404,
+    "EquipmentID": 23039,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 5739988593538883206
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1404,
+    "EquipmentID": 23039,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 2486574159988080513
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1405,
+    "EquipmentID": 23041,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 16963550862720271395
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1405,
+    "EquipmentID": 23041,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 891128590689061179
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1405,
+    "EquipmentID": 23041,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 1703020448487905481
+    },
+    "ParamList": [
+      {
+        "Value": 0.24
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.24
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1405,
+    "EquipmentID": 23041,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 7320834367980492525
+    },
+    "ParamList": [
+      {
+        "Value": 0.3
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1405,
+    "EquipmentID": 23041,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 13640949990725844528
+    },
+    "ParamList": [
+      {
+        "Value": 0.36
+      },
+      {
+        "Value": 0
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.36
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1412,
+    "EquipmentID": 23048,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 5270623391869090859
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1412,
+    "EquipmentID": 23048,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 1426530134941578295
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1412,
+    "EquipmentID": 23048,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 4175180683128095791
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1412,
+    "EquipmentID": 23048,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 385287763086856470
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1412,
+    "EquipmentID": 23048,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 13669429240163494416
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1413,
+    "EquipmentID": 23049,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 1977823918346906471
+    },
+    "ParamList": [
+      {
+        "Value": 0.04
+      },
+      {
+        "Value": 0.04
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.04
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1413,
+    "EquipmentID": 23049,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 16867881665609794382
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      },
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1413,
+    "EquipmentID": 23049,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 12191280678411729412
+    },
+    "ParamList": [
+      {
+        "Value": 0.08
+      },
+      {
+        "Value": 0.08
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.08
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1413,
+    "EquipmentID": 23049,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 15395701315587021542
+    },
+    "ParamList": [
+      {
+        "Value": 0.1
+      },
+      {
+        "Value": 0.1
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1413,
+    "EquipmentID": 23049,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 12657721446499575943
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      },
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ]
+  },
+  {
+    "RoleID": 1414,
+    "EquipmentID": 23051,
+    "Level": 1,
+    "BackEquipmentDesc": {
+      "Hash": 10085179285387212942
+    },
+    "ParamList": [
+      {
+        "Value": 0.06
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.06
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1414,
+    "EquipmentID": 23051,
+    "Level": 2,
+    "BackEquipmentDesc": {
+      "Hash": 18116177266704346325
+    },
+    "ParamList": [
+      {
+        "Value": 0.09
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.09
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1414,
+    "EquipmentID": 23051,
+    "Level": 3,
+    "BackEquipmentDesc": {
+      "Hash": 5880808073426243998
+    },
+    "ParamList": [
+      {
+        "Value": 0.12
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.12
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1414,
+    "EquipmentID": 23051,
+    "Level": 4,
+    "BackEquipmentDesc": {
+      "Hash": 17976802014655383735
+    },
+    "ParamList": [
+      {
+        "Value": 0.15
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.15
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  },
+  {
+    "RoleID": 1414,
+    "EquipmentID": 23051,
+    "Level": 5,
+    "BackEquipmentDesc": {
+      "Hash": 16513120327316027930
+    },
+    "ParamList": [
+      {
+        "Value": 0.18
+      }
+    ],
+    "ParamFormat": "[i]%",
+    "AllMemberGeneralPropertyList": [
+      {
+        "PropertyType": "ExtraAllDamageTypeAddedRatio3",
+        "Value": {
+          "Value": 0.18
+        }
+      }
+    ],
+    "OwnerGeneralPropertyList": []
+  }
+]
